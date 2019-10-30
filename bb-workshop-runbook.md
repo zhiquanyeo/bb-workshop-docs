@@ -41,7 +41,7 @@ Finally, at the top of the screen is a toolbar. The "Compile and Run" button wil
 
 There are also indicators and selectors for setting the different modes on the robots, and these will be covered in the next section.
 
-**IMPORTANT NOTE** There is no auto-save functionality (and ctrl+S doesn't do what you think it does). COPY code OFTEN to a scratch pad to ensure you don't lose your work! On the plus side, even if the server crashes, as long as you don't refresh the page, your code will still be in the editor.
+**IMPORTANT NOTE** There is no auto-save functionality (and ctrl+S doesn't do what you think it does). COPY code OFTEN to a scratch pad to ensure you don't lose your work! On the plus side, even if the server crashes, as long as you don't refresh the page (this will reset the code to the default template), your code will still be in the editor.
 
 ### Running your program
 Once you have written your program, press "Compile and Run". Whenever it is done building, the _Console_ tab should automatically select itself, and you should see some text there that indicate the status of the robot program.
