@@ -22,7 +22,7 @@ Identify the robot you are working with. There should be a label on the board th
 
 Once the robot has been identified and powered on, wait a minute and see if you can find a wifi network with the name of the robot, appended with "-bot". For example, if you are working with the robot named "pecorino" (mmm cheese), you should be able to see a wifi network called "pecorino-bot".
 
-Select that network, and when prompted for a password, enter cheesebot. If all goes well, you should be connected to the robot. Ignore any warnings about limited connectivity.
+Select that network, and when prompted for a password, enter _cheesebot_. If all goes well, you should be connected to the robot. Ignore any warnings about limited connectivity.
 
 ### Launching the IDE
 Using the Chrome web browser, visit http://192.168.42.1:3000. A web page should then appear, with a set of buttons on top, a text editor on the left and a series of tabs on the right. This is the editor you will use to write code for the robot.
